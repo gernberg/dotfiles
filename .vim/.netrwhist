@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/gustav/Dropbox/exceed-it/bannerbyran/nya/ikano-land'
+let g:netrw_dirhist_2='/home/gustav/rails/myli/app/assets/stylesheets'
+let g:netrw_dirhist_3='/home/gustav/rails/drink/app'
+let g:netrw_dirhist_4='/home/gustav/rails/drink/db/migrate'
+let g:netrw_dirhist_5='/home/gustav/rails/drink/db'
+let g:netrw_dirhist_6='/home/gustav/rails/purecms/vendor/extensions/companies/config'
+let g:netrw_dirhist_7='/media/gustav/crypted/www/aw/cache-images'
